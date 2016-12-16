@@ -1,2 +1,4 @@
 rootProject.name = 'DeftHttp'
+include 'defthttp-core'
+include 'defthttp-demo'
 
